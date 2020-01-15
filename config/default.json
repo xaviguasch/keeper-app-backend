@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://xavi123:travis9@keeper-hpzav.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://xavi123:travis9@keeper-hpzav.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
